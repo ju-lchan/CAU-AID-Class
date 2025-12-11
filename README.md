@@ -53,7 +53,7 @@ Enter the sepal.length and petal.length for the iris in the format 'sepal_length
 Predicted Label: Virginica
 ```
 ## Notes
-- Ensure that the input for predictions is numeric and follow the correct format `(value1, value2)`.
+- Ensure that the input for predictions is numeric and follow the correct format (`value1, value2`).
 - Modifiy the dataset loading path in the script if necessary.
 
 ## License
